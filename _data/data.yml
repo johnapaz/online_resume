@@ -8,16 +8,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Debra Eskinazi Stockdale
-    tagline: Experienced Technical Writer
+    name: John A. Paz
+    tagline: Content Designer and Technical Writer | Manager | Mentor | Public Speaker
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
         # Sidebar links
-    email: debra.eskinazi@gmail.com
-    phone: 408 205 1279
-    timezone: United States/Pacific Time (PT)
-    linkedin: deskinazi
-    github: DEskinazi
+    email: johnapaz@gmail.com
+    phone: 510 707 7494
+    timezone: United States/Eastern Time (ET)
+    linkedin: johnapaz
+    github: johnapaz
 #    pdf: 
 
     languages:
@@ -32,120 +32,136 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Beekeeping
+        - item: Gardening & Bonsai
           link:
 
-        - item: Gardening
+        - item: Sports & Exercise
           link:
 
-        - item: Cooking
+        - item: Coding & Writing
           link:
 
 career-profile:
     title: Summary Statement
     summary: |
-      Experienced writer with over 10 years of expertise leading content strategies for cloud-based database and SaaS products. Transforms complex technical concepts into user-friendly content that drives product adoption and user satisfaction. Fosters collaboration with engineering, design, and product teams, ensuring high-quality, strategically-aligned documentation.
-
+      Technical Writer and Content Designer with 15+ years of experience who’s excited about simplifying the complex, and using content to solve customer problems.
 education:
     title: Education
     info:
-      - degree: BA in Political Science
-        university: California State University, San Jose
+      - degree: BA in English
+        university: University of Central Florida, Orlando
         time: 
           <br>
         details: |
-          Emphasis on International Relations. Minor: Comparative Religions
+          Focus in Technical Writing
 
 
 experiences:
     title: Work Experience
     info:
       
-      - role: Senior Technical Writer
-        time: September 2019 - June 2024
-        company: Treasure Data, Mountain View, CA
-        details: |
-          
-            - Developed content, architecture, and visualizations for UX, API, & SDK documentation for playbooks, LLMs, machine learning, workflows, and governance, with an emphasis on trust and security.
-            - Worked closely with UX, QA, BE, FE, Marketing, PMs, and Support to craft high-quality user experiences across multiple product touchpoints, influencing product decisions from kick-off to launch.
-            - Pioneered Treasure Data's first developer documentation portal, accelerating implementation and saving $500k annually by improving alignment time between FE and BE teams.
-            - Established Jira Service Desk for Docs, reducing ticket resolution from months or weeks to fewer than 36 hours, setting standards for documentation efficiency.
-            - Directed monthly release note process, increasing operational efficiency and enabling stakeholders to focus on innovation and high-value activities.
-            - Partnered with Product Ops and Technical Program Management, enhancing operational workflows, dismantling silos, and fostering a collaborative environment.
+    - role: Knowledge Manager
+      time: July 2024 - Present
+      company: Tinubu, Maitland, FL
+      details: |
+        (Details not provided)
+
+    - role: Internal Documentation Systems Analyst
+      time: August 2023 - February 2024
+      company: SingleStore, Orlando, FL
+      details: |
+        - Gathered, analyzed, and documented requirements, use cases, and user workflows for DevOps support.
+        - Collaborated with engineering teams to address technical debt and suggested process enhancements.
+        - Partnered with internal teams to ensure cohesive Confluence design and efficient day-to-day operations with templates, add-ons, and content organization.
+
+    - role: Documentation & Content Design Manager / Technical Writer
+      time: December 2020 - May 2023
+      company: Menlo Security Inc., Orlando, FL
+      details: |
+        - Managed a distributed team of writers as shared resources in an Agile product development environment across multiple projects.
+        - Established Menlo's first Documentation & Content Design Department, analyzing content needs, creating workflows, and scaling the team's impact.
+        - Proposed and executed migration to a new documentation publishing infrastructure, creating developer documentation portal prototypes and API documentation standards.
+
+    - role: Senior Content Designer & Technical Writer
+      time: January 2015 - December 2020
+      company: Atlassian, Orlando, FL
+      details: |
+        - Worked with engineers to develop, edit, and manage content for pre-sales engineers and consultants.
+        - Planned and conducted usability testing for effectiveness, producing various content types such as technical best practices, demo/sales guides, and training materials.
+        - Managed content strategy, end-user documentation, UX writing, UI copy, and contributed to improving user interfaces and documentation solutions.
+    
+    - role: Technical Writer/Atlassian Administrator
+      time: April 2013 - January 2015
+      company: PatientPoint®, Orlando, FL
+      details: |
+        - Served as JIRA, Confluence, and FishEye+Crucible administrator, designing information architecture and administering tool rollout.
+        - Designed and executed training on Scrum and Agile methodologies, providing support and guidance to new Scrum Masters.
+        - Planned, researched, and wrote technical documentation for Engineering and Product Management departments.
+    
+    - role: Technical Writer
+      time: January 2012 - February 2013
+      company: Pentaho, Orlando, FL
+      details: |
+        - Staff Technical Writer for Pentaho Data Integration (PDI/Kettle) and Big Data (Hadoop) projects.
+        - Contributed to and maintained multiple internal and public wiki sites, managed multiple projects, and worked on Big Data and Data Integration projects.
+    
+    - role: Technical Writer
+      time: November 2010 - January 2012
+      company: JHT, Inc., Orlando, FL
+      details: |
+        - Converted existing military manuals into digital documents using XML.
+        - Developed documentation for new development tools and supervised team members on large publications.
+    
+    - role: Technical Writer
+      time: November 2009 - November 2010
+      company: Carley Corporation, Orlando, FL
+      details: |
+        - Researched, wrote, and delivered documents across multiple projects.
+        - Acted as team lead for electronic classroom documentation.
+    
+    - role: Technical Writer
+      time: September 2008 - September 2009
+      company: DEI Services Corp., Orlando, FL
+      details: |
+        - Researched, wrote, formatted, and published technical manuals.
+        - Documented military aviation training simulators and ensured compliance with military specifications.
+    
+    - role: Technical Writer/Content Manager
+      time: January 2008 - August 2008
+      company: T.J. Incorporated Engineering, Orlando, FL
+      details: |
+        - Supported lead technical writer with research, formatting, editing, and publishing.
+        - Managed documentation for military communications simulators and ensured compliance with specifications.
+    
+    - role: Wiki Developer/Technical Writer
+      time: July 2007 - December 2007
+      company: Electronic Arts - Tiburon, Orlando, FL
+      details: |
+        - Created a wiki of the game development lifecycle for internal end users.
+        - Developed structure and content for the internal wiki with over 250 cross-referencing pages of material.
+    
+    - role: Technical Writer
+      time: May 2007 - July 2007
+      company: Lockheed Martin Information Technology, Orlando, FL
+      details: |
+        - Maintained content within the database for EIS help desk analysts.
+        - Collaborated virtually with team members nationwide.
+    
+    - role: Technical Writer
+      time: October 2006 - May 2007
+      company: Siemens Power Generation, Orlando, FL
+      details: |
+        - Edited and submitted engineering reports, collaborated with SMEs to ensure compliance and technical accuracy.
       
-      - role: Writer & Editor  
-        time: January 2014 - Present
-        company: Founder, Los Gatos, CA 
-        details: |
-        
-            - Competitive intelligence, content strategy, and technical documentation for B2B, B2C, and pharmaceutical clients, ensuring alignment with client objectives, timeline, and budget.
-      - role: Magazine and Features Editor  
-        time: March 2016 - March 2019
-        company: New SV Media, San Jose, CA 
-        details: |
-        
-            - Directed the production and content strategy of two weekly lifestyle magazines and front-page centerpieces for three weekly newspapers. Delivered award-winning material.
-            - Managed writers and photographers, providing mentorship and skill enhancement through feedback and professional development.
-
-      - role: Technical Writer (Trainer) 
-        time: December 2012 - May 2016
-        company: Learning & Employee Development - SCC, San Jose, CA
-        details: |
-          
-            - Led initiatives for new software implementations for a $1 million education fund served by 16,000 employees in 27 user groups.
-            - Delivered employee training and managed learning partners.
-
 certifications:
       title: Certifications
       list:
-        - name: Generative AI Fundamentals
-          start: 2024
-          end: 2026
-          organization: Databricks
-          credentialurl: credentials.databricks.com/0d1ddea5-2206-4be0-a99a-eaf1c329291c#gs.ct3vo9
+        - name: Certified ScrumMaster (CSM)
+          start: 2020
+          end: 2022
+          organization: ScrumAlliance
           credentialname: Certificate
-          details: |
-            Foundational knowledge of generative AI, including large language models (LLMs).  
         
-
-        - name: Dispute Resolution
-          organization: Office of Human Relations, County of Santa Clara
-          credentialurl: news.santaclaracounty.gov/media-advisory/santa-clara-county-office-human-relations-offers-mediation-principles-and-practice
-          credentialname: Certificate
-          details: |
-            Mediation principles and practice as a process to resolve conflict through effective communication, fostering understanding, and mutual respect.
-
-
-        - name: CSPL
-          organization: Behavioral Health Services, County of Santa Clara
-          credentialurl: bhsd.santaclaracounty.gov/get-prevention-services/suicide-prevention-and-crisis/crisis-and-suicide-prevention-lifeline-dial#:~:text=If%20you%20are%20interested%20in,%40hhs.sccgov.org.
-          credentialname: Certificate
-          details: |
-            Defuse and de-escalate individuals in crisis.
-    
-
-
-projects:
-    title: Projects
-    intro: >
-      A brief list of some of the projects was the primary author or project manager. 
-
-    assignments:
-      - title: Delgated Groups
-        link: "https://docs.treasuredata.com/articles/#!pd/delegated-groups"
-        tagline: "This collection of documents describes how a company might leverage a regional administrator to oversee a set of users with permissions to specific policies."
-
-      - title: Illustration - Delegated Groups
-        link: "https://docs.treasuredata.com/articles/#!pd/creating-delegated-groups"
-        tagline: "This image offers a visual description of how Delegated Grouping works."
-
-      - title: Segment Insights Dashboard Overview
-        link: "https://docs.treasuredata.com/articles/#!pd/segment-insights-dashboard-overview"
-        tagline: "This collection of documents illustrates how a customer can use data modeling to better understand a particular segment of their target market."
-
-      - title: API Developer Portal
-        link: "https://api-docs.treasuredata.com"
-        tagline: "Identified a need for improved API documentation, built a business case, gathered metrics, got stakeholder buy-in, and launched the first iteration 18 months later."
 
 oss:
     title: Strengths & Competencies
@@ -159,23 +175,23 @@ skills:
       - name: Jira & Confluence
         level: 98%
 
-      - name: Linux
-        level: 75%
-
-      - name: Markdown
-        level: 98%
-
       - name: HTML5 & CSS
         level: 80%
 
       - name: Git
         level: 85%
+        
+      - name: Developer Docs
+        level: 80%
+        
+      - name: APIs
+        level: 70%
 
       - name: Python
-        level: 60%
+        level: 40%
 
-      - name: C++
-        level: 60%  
+      - name: Javascript
+        level: 30%  
 
     summary: Additional Tools - ClickHelp, Docker, Figma, JavaScript, JSON, OpenAPI, Redocly, Regex, SQL, Sublime Text, VSCode, Zapier, Whatever you've got!    
 
